@@ -1,0 +1,13 @@
+{
+  "_hinweis": "Sterne und Anzahl von Google übernehmen (Stand anpassen). Zitate rotieren in dieser Reihenfolge, das erste steht zusätzlich als Fallback in index.html.",
+  "sterne": "4,9",
+  "anzahl": 156,
+  "stand": "2026-10-20",
+  "zitate": [
+    { "text": "Lust auf einen Kurzurlaub in Italien? Dann ab ins L'Angolino! Ein echtes Stück Italien mitten in Niederbayern.", "name": "Thomas K." },
+    { "text": "Hier gibt's eine der besten Pizzen, die wir bisher gegessen haben! Hier fühlt man sich wohl.", "name": "Heike S." },
+    { "text": "Jedes Mal, wenn wir bei WEKO einkaufen, ist es für uns ein Muss, hier zu essen. Fühlt sich an wie ein Kurzurlaub in Italien.", "name": "Marion S." },
+    { "text": "Salat ist immer knackig frisch, es gibt schmackhafte Nudelgerichte und die leckerste Bruschetta im Umkreis.", "name": "Andrea H." },
+    { "text": "Bestes Bistro im ganzen Landkreis Rottal-Inn! Wir sind seit Jahren Stammgäste.", "name": "Jürgen M." }
+  ]
+}

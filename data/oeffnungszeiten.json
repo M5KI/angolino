@@ -1,0 +1,13 @@
+{
+  "_hinweis": "Uhrzeiten als HH:MM. Ruhetag: von und bis auf null. Bei Änderungen auch in index.html die Fallback-Tabelle (id=hours) und das JSON-LD anpassen.",
+  "zeitzone": "Europe/Berlin",
+  "tage": [
+    { "tag": "Montag", "von": null, "bis": null },
+    { "tag": "Dienstag", "von": "09:30", "bis": "18:00" },
+    { "tag": "Mittwoch", "von": "09:30", "bis": "18:00" },
+    { "tag": "Donnerstag", "von": "09:30", "bis": "18:00" },
+    { "tag": "Freitag", "von": "09:30", "bis": "18:00" },
+    { "tag": "Samstag", "von": "09:00", "bis": "18:00" },
+    { "tag": "Sonntag", "von": null, "bis": null }
+  ]
+}

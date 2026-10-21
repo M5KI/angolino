@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://m5ki.github.io/angolino/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/it/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/karriere</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/karriere"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/lavora-con-noi"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/it/lavora-con-noi</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/karriere"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/lavora-con-noi"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/impressum</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/impressum"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/note-legali"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/it/note-legali</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/impressum"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/note-legali"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/datenschutz</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/privacy"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://m5ki.github.io/angolino/it/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://m5ki.github.io/angolino/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://m5ki.github.io/angolino/it/privacy"/>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+</urlset>
